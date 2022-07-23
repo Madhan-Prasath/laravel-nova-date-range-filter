@@ -36,13 +36,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Madhan-Prasath\\DateRangeFilter\\": "src/"
+            "PosLifestyle\\DateRangeFilter\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Madhan-Prasath\\DateRangeFilter\\FilterServiceProvider"
+                "PosLifestyle\\DateRangeFilter\\FilterServiceProvider"
             ]
         }
     },
